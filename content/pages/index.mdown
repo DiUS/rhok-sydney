@@ -1,0 +1,41 @@
+Title: RHoK Sydney
+Link text: Home
+
+# Welcome to RHoK Sydney
+
+Random Hacks of Kindness Sydney (RHoK) is a not for profit local group that is part of a global movement of hackers who are hacking for good around the world.  We invite participants to work together to produce practical open source solutions to development problems related to disaster risk, major crisis (like bushfires, floods and earthquakes), and the challenges of climate change.  
+
+# What is RHoK?
+
+RHoK is a global hackathon that takes part twice a year.  It was started in 2009 by Google, NASA, Yahoo!, Microsoft and the World Bank, and since then RHoK has been bringing together thousands of people around the world to create open source solutions that can save lives and alleviate suffering. 
+RHoK Sydney events encourage participants to develop solutions that can be used, in particular, to help people prepare for and respond to natural disasters.
+Sydney is again taking part in the next global RHoK event in June this year.   
+
+# RHoK Global Hackathon - 1st & 2nd of June
+The next RHoK is approaching fast. You can [sign up to the event via Meetup](http://www.meetup.com/rhok-sydney "Meetup")  
+
+RHoK Sydney will be located at the DiUS Computing Sydney CBD.  
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=216993981719042777974.0004dc7ff01c6a09a6a44&amp;ie=UTF8&amp;t=m&amp;ll=-33.863182,151.207699&amp;spn=0,0&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?msa=0&amp;msid=216993981719042777974.0004dc7ff01c6a09a6a44&amp;ie=UTF8&amp;t=m&amp;ll=-33.863182,151.207699&amp;spn=0,0&amp;source=embed" style="color:#0000FF;text-align:left">DiUS Computing</a> in a larger map</small>
+
+Here's an outline of how the RHOK Sydney hackathon will run in June. We'll clear as much time for actual development, and keep the speechifying and admin to a bare minimum.  You can have a look at some of the problems we'll be working on in advance - just go to our "Problems" page.
+
+## Saturday June 1st
+
+* 9.00 – 9.30 Get set up, and ready for 2 great days
+* 9.30 – 9.45 Welcome and administrivia
+* 9.45 - 10.30 Choosing problem areas to work on, and teams to work with
+* 11.00 - 19.00 start your hacking  
+* 19.00 – 20.00 Dinner (on us)
+* 20.00 – 02.00 more time to design and develop
+
+We'll have light snacks, fruit, drinks and the like on hand to keep your blood sugar levels up. There are many great local cafes, restaurants and stores around to grab a more substantial lunch  
+
+You can work as late as 2.00am, or head home a little earlier to catch up on some sleep
+
+## Sunday June 2nd
+
+* 8.00 – 13.00 Coding continues
+* 14.00 Time to down tools
+* 14.30 – 15.30 All projects get 10 minutes to present their work to all (and the judges)
+* 15.30 – 16.00 Judges deliberate
+* 16.00 – 16.30 Awards and prizes
