@@ -14,12 +14,14 @@ After a bush fire, flood, or cyclone, emergency response management personnel ne
 
 ### Your problem here
 
-With your description
+With your description.  
+* [A guide for Subject matter experts](http://www.rhok.org/expert-guide)
+* [RHoK problem submission page](http://www.rhok.org/problems/add)
 
 ----------
 
 <div id="wufoo-m7x3z9">
-<a href="http://rhoksydney.wufoo.com/forms/m7x3z9">Please fill in your new idea here</a>.
+<a href="http://rhoksydney.wufoo.com/forms/m7x3z9">Let us know of your new idea</a>.
 </div>
 <script type="text/javascript">var m7x3z9;(function(d, t) {
 var s = d.createElement(t), options = {
@@ -35,6 +37,11 @@ var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') retu
 try { m7x3z9 = new WufooForm();m7x3z9.initialize(options);m7x3z9.display(); } catch (e) {}};
 var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
 })(document, 'script');</script>
+
+---------
+
+### If you're ready to submit your idea to RHoK go to the [RHoK problem submission page](http://www.rhok.org/problems/add)
+
 
 
 
