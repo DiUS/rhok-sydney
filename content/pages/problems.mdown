@@ -33,7 +33,8 @@ Watch this space
 # Resources for Problem Owners:
 ### Mock ups
 - [Balsamiq](http://www.balsamiq.com/)
-### Story Board
+
+### Project Collaboration Board
 - [Trello](https://trello.com)
 
 
