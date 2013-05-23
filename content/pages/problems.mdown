@@ -3,44 +3,39 @@ Summary: Problems that are currently being worked on from past RHoK events
 Read more: Show me more
 
 # Current projects
+Here are the problems with local problem owners at the Sydney RHoK weekend June 1st and 2nd:
 
-Here are the problems we will be being worked on at the next RHoK weekend in June.
+------
+## NGO Yellowpages
+![alt text](/images/NGO-Yellowpages.png "NGO Yellowpages Logo")
+#### Ian Scrivener
+- [Meetup Discussion](http://www.meetup.com/rhok-sydney/messages/boards/thread/34749802#102080122)
 
-### Resilience
+Watch this space
 
-After a bush fire, flood, or cyclone, emergency response management personnel need to know what issues need to be resolved, get accurate and timely descriptions of their severity and location, to be able to prioritise them, to determine which types of resources are needed for their resolution, and to track their resolution. Currently, issues are handled by verbal description, relayed in the first instance over the phone from a member of the public, to a centralised response call centre, and then to the local emergency response crews. At each step, and with each relay of information, the precise location and an accurate description may be diluted or lost. Indeed, an accurate location and description may not have been captured in the first place. For example, a tree is across the road, a road section is washed away, a fence is breached and stock is wandering.
+------
+## Grow It Local
+![alt text](http://www.growitlocal.com.au/images/logo.png "Grow it Local Logo")
+#### Jess Miller
+- [Meetup Discussion](http://www.meetup.com/rhok-sydney/messages/boards/thread/34749892#102080312)
 
-[Problem definition](http://www.rhok.org/problems/post-disaster-issue-resolution-resilience)  
+Watch this space
 
-### Your problem here
+------
+## Bagong Barrio Education Fund
+![alt text](http://www.bbef.org.au/images/homeheaderimage.gif "BBEF logo")
+#### Michelle De Guzman
+- [Meetup Discussion](http://www.meetup.com/rhok-sydney/messages/boards/thread/34749912#102080402)
 
-With your description.  
-* [A guide for Subject matter experts](http://www.rhok.org/expert-guide)
-* [RHoK problem submission page](http://www.rhok.org/problems/add)
+Watch this space
 
-----------
 
-<div id="wufoo-m7x3z9">
-<a href="http://rhoksydney.wufoo.com/forms/m7x3z9">Let us know of your new idea</a>.
-</div>
-<script type="text/javascript">var m7x3z9;(function(d, t) {
-var s = d.createElement(t), options = {
-'userName':'rhoksydney', 
-'formHash':'m7x3z9', 
-'autoResize':true,
-'height':'659',
-'async':true,
-'header':'show'};
-s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'wufoo.com/scripts/embed/form.js';
-s.onload = s.onreadystatechange = function() {
-var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
-try { m7x3z9 = new WufooForm();m7x3z9.initialize(options);m7x3z9.display(); } catch (e) {}};
-var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-})(document, 'script');</script>
+# Resources for Problem Owners:
+### Mock ups
+- [Balsamiq](http://www.balsamiq.com/)
+### Story Board
+- [Trello](https://trello.com)
 
----------
-
-### If you're ready to submit your idea to RHoK go to the [RHoK problem submission page](http://www.rhok.org/problems/add)
 
 
 
