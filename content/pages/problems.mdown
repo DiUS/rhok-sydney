@@ -10,7 +10,7 @@ Here are the problems with local problem owners at the Sydney RHoK weekend June 
 ![alt text](/images/Greater-Mekong-Delta-NGO-Geo-Directory.png "Greater Mekong Delta NGO Geo-Directory Logo")
 #### Ian Scrivener
 #### Resources
-- [Meetup Discussion](http://www.meetup.com/rhok-sydney/messages/boards/thread/34749802#102080122)
+- [Meetup Discussion](http://www.meetup.com/rhok-sydney/messages/boards/thread/34777382#102138572)
 - Previous proposal to to [The Open Data Research Network](http://opendataresearch.org/)
   - [South Central Coast Vietnam NGO Web Directory Project.doc](https://www.dropbox.com/sh/pazwnojnbzy0j22/d3mJ2-xuTR/South%20Central%20Coast%20Vietnam%20NGO%20Web%20Directory%20Project%20-%20%28RHOK%29.doc) 
 - Support/validation from two International NGOs on the ground in Vietnam
