@@ -6,7 +6,7 @@ Read more: Show me more
 Here are the problems with local problem owners at the Sydney RHoK weekend June 1st and 2nd:
 
 ------
-## Greater Mekong Delta NGO Geo-Directory
+## Greater Mekong Subregion NGO Geo-Directory
 ![alt text](/images/Greater-Mekong-Delta-NGO-Geo-Directory.png "Greater Mekong Delta NGO Geo-Directory Logo")
 #### Ian Scrivener
 #### Resources
@@ -16,6 +16,7 @@ Here are the problems with local problem owners at the Sydney RHoK weekend June 
 - Support/validation from two International NGOs on the ground in Vietnam
   - [Kiahn Foundation](http://www.kianh.org.uk/) - [Kiahn supporting letter.pdf](https://www.dropbox.com/s/44694pitenfunl3/Kiahn%20supporting%20letter.pdf)
   - [Children’s Education Foundation](http://childrenseducationfoundation.org.au/) - [Ian Scrivener - OpenData Project - letter of support CEF.jpg](https://www.dropbox.com/s/ro0vn46hl534xwc/Ian%20Scrivener%20-%20OpenData%20Project%20-%20letter%20of%20support%20CEF.jpg)
+ - [Trello Board](https://trello.com/board/hrok-ngo-map-directory/51995c4e8471e89178008cd6)
 
 Watch this space for a project summary.
 
