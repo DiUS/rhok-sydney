@@ -8,6 +8,7 @@
       %meta{:name => 'keywords', :content => @keywords}
     %meta{:content => 'width=device-width, initial-scale=1.0', :name => 'viewport'}
     %meta{:content => '', :name => 'author'}/
+    %link{:rel => "shortcut icon", :href => "images/rhok.ico", :type => "image/vnd.microsoft.icon"}
     %link{:href => '/bootstrap/bootstrap.css', :media => 'screen', :rel => 'stylesheet'}
     :css 
       body {
@@ -47,6 +48,8 @@
       %ul{:class => "nav nav-pills pull-right"}
         %li
           %a.brand{:href => "/"} Home
+        %li
+          %a{:href => "/resources"} Resources
         %li
           %a{:href => "/problems"} Current projects
         %li

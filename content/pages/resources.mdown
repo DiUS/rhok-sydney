@@ -1,0 +1,24 @@
+Categories: resources
+Summary: Useful resources to investigate using on the weekend
+Read more: Show me more
+
+#### Resources 
+- [RHOK Problem Definition](http://www.rhok.org/problems/bagong-barrio-education-fund-bbef-breaking-cycle-poverty-through-educational-sponsorship)
+- [BBEF Website](http://www.bbef.org.au/index.html)
+- [Meetup Discussion](http://www.meetup.com/rhok-sydney/messages/boards/thread/34749912#102080402)
+
+------
+# Resources for Problem Owners and Developers:
+### Mock ups
+- [Balsamiq](http://www.balsamiq.com/)
+
+### Project Collaboration Board
+- [Trello](https://trello.com)
+
+### Project source repository
+- [Github](http://www.github.com)
+- [Bitbucket](https://bitbucket.org/)
+
+### Hosting solutions
+- [Heroku](https://www.heroku.com) - free application hosting (Ruby, Node.js, Clojure, Java, Python, and Scala app)
+- [Amazon Web Services](http://aws.amazon.com/) - free/cheap application hosting for a year using Elastic Beanstalk (.NET, Java, Node.js, PHP, Python, and Ruby)

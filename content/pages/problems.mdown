@@ -1,12 +1,17 @@
 Categories: problems
-Summary: Problems that are currently being worked on from past RHoK events
+Summary: Local problems available on the day
 Read more: Show me more
 
 # Current projects
+
 Here are the problems with local problem owners at the Sydney RHoK weekend June 1st and 2nd:
 
+- [Greater Mekong Subregion NGO Geo-Directory](#gms-directory)
+- [Grow It Local](#grow-it-local)
+- [Bagong Barrio Education Fund](#bbef)
+
 ------
-## Greater Mekong Subregion NGO Geo-Directory
+## <a id="gms-directory"></a> Greater Mekong Subregion NGO Geo-Directory
 ![alt text](/images/Greater-Mekong-Delta-NGO-Geo-Directory.png "Greater Mekong Delta NGO Geo-Directory Logo")
 #### Ian Scrivener
 #### Resources
@@ -21,7 +26,7 @@ Here are the problems with local problem owners at the Sydney RHoK weekend June 
 Watch this space for a project summary.
 
 ------
-## Grow It Local
+## <a id="grow-it-local"></a> Grow It Local
 ![alt text](http://www.growitlocal.com.au/images/logo.png "Grow it Local Logo")
 #### Jess Miller
 #### Resources
@@ -33,21 +38,19 @@ Watch this space for a project summary.
 Watch this space for a project summary.
 
 ------
-## Bagong Barrio Education Fund
+## <a id="bbef"></a> Bagong Barrio Education Fund
 ![alt text](http://www.bbef.org.au/images/homeheaderimage.gif "BBEF logo")
 #### Michelle De Guzman
-#### Resources
-- [Meetup Discussion](http://www.meetup.com/rhok-sydney/messages/boards/thread/34749912#102080402)
+### Description:
+The Bagong Barrio Education Fund(BBEF) is a not-for-profit sponsorship program that focuses on education as a means of breaking the cycle of poverty.
 
-Watch this space for a project summary.
+The program supports the educational needs of the children of Bagong Barrio, the second largest slum village in Manila. It brings together Australian (and international) 
 
-------
-# Resources for Problem Owners:
-### Mock ups
-- [Balsamiq](http://www.balsamiq.com/)
+sponsors who fund the education expenses (books, uniforms, transport) of individual students.
 
-### Project Collaboration Board
-- [Trello](https://trello.com)
+100% of the sponsors’ money goes directly to the students.
+
+
 
 
 
