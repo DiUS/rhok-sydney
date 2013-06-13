@@ -7,41 +7,87 @@ Read more: Show me more
 Here are the problems with local problem owners at the Sydney RHoK weekend June 1st and 2nd:
 
 - [Greater Mekong Subregion NGO Geo-Directory](#gms-directory)
-- [Grow It Local](#grow-it-local)
 - [Bagong Barrio Education Fund](#bbef)
 
 ------
-## <a id="gms-directory"></a> Greater Mekong Subregion NGO Geo-Directory
-![alt text](/images/Greater-Mekong-Delta-NGO-Geo-Directory.png "Greater Mekong Delta NGO Geo-Directory Logo")
-#### Ian Scrivener
+<div style="
+height: 300px;
+width: 900px;
+background: url(/images/Greater-Mekong-Delta-NGO-Geo-Directory.png) no-repeat center center; color: #263255;
+text-align: left;
+padding-left: 20px;
+text-shadow: 0 1px 3px rgba(0,0,0,.4), 0 0 30px rgba(0,0,0,.075);">
+  <h2><a id="gms-directory"></a>Greater Mekong Subregion NGO Geo-Directory</h2>
+  <h4>Ian Scrivener</h4>
+</div>
+
+<div id="ngod-carousel" class="carousel slide span8 pull-left">
+  <ol class="carousel-indicators">
+    <li data-target="#ngod-carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#ngod-carousel" data-slide-to="1"></li>
+  </ol>
+  <!-- Carousel items -->
+  <div class="carousel-inner">
+    <div class="active item">
+        <img src="/images/ngod_screenshot_01.png" />
+        <div class="carousel-caption">
+          <h4>Welcome Screen</h4>
+          <p>Locate NGOs by the area they operate in the Greater Mekong Delta Region</p>
+        </div>
+    </div>
+    <div class="item">
+        <img src="/images/ngod_screenshot_02.png" />
+        <div class="carousel-caption">
+          <h4>Lists Services</h4>
+          <p>A list of services amoung other resources</p>
+        </div>
+    </div>
+  </div>
+  <!-- Carousel nav -->
+  <a class="carousel-control left" href="#ngod-carousel" data-slide="prev">&lsaquo;</a>
+  <a class="carousel-control right" href="#ngod-carousel" data-slide="next">&rsaquo;</a>
+</div>
 #### Resources
-- [Meetup Discussion](http://www.meetup.com/rhok-sydney/messages/boards/thread/34777382#102138572)
 - Previous proposal to to [The Open Data Research Network](http://opendataresearch.org/)
   - [South Central Coast Vietnam NGO Web Directory Project.doc](https://www.dropbox.com/sh/pazwnojnbzy0j22/d3mJ2-xuTR/South%20Central%20Coast%20Vietnam%20NGO%20Web%20Directory%20Project%20-%20%28RHOK%29.doc) 
 - Support/validation from two International NGOs on the ground in Vietnam
   - [Kiahn Foundation](http://www.kianh.org.uk/) - [Kiahn supporting letter.pdf](https://www.dropbox.com/s/44694pitenfunl3/Kiahn%20supporting%20letter.pdf)
   - [Children’s Education Foundation](http://childrenseducationfoundation.org.au/) - [Ian Scrivener - OpenData Project - letter of support CEF.jpg](https://www.dropbox.com/s/ro0vn46hl534xwc/Ian%20Scrivener%20-%20OpenData%20Project%20-%20letter%20of%20support%20CEF.jpg)
- - [Trello Board](https://trello.com/board/hrok-ngo-map-directory/51995c4e8471e89178008cd6)
- - [GitHub Repository](https://github.com/ianscrivener/HROK_spatial_examples_etc)
+ - [GitHub Repository](https://github.com/ianscrivener/HROK_NGO)
+ - [Website](http://166.78.181.154/)
 
 Watch this space for a project summary.
+<p style="clear:both"></p>
 
-------
-## <a id="grow-it-local"></a> Grow It Local
-![alt text](http://www.growitlocal.com.au/images/logo.png "Grow it Local Logo")
-#### Jess Miller
-#### Resources
-- [Meetup Discussion](http://www.meetup.com/rhok-sydney/messages/boards/thread/34749892#102080312)
-- [Crowd Farming - youtube](https://www.youtube.com/watch?v=V9DVKJua_Z8)
-- [Grow it local](http://www.growitlocal.com.au/)
-- [Grow Hacker Insights](/pdfs/Grow_Hackers_Insights.pdf)
-
-Watch this space for a project summary.
-
-------
 ## <a id="bbef"></a> Bagong Barrio Education Fund
 ![alt text](http://www.bbef.org.au/images/homeheaderimage.gif "BBEF logo")
 #### Michelle De Guzman
+<div id="bbef-carousel" class="carousel slide span8 pull-right">
+  <ol class="carousel-indicators">
+    <li data-target="#bbef-carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#bbef-carousel" data-slide-to="1"></li>
+  </ol>
+  <!-- Carousel items -->
+  <div class="carousel-inner">
+    <div class="active item">
+        <img src="/images/bbef_screenshot_01.png" />
+        <div class="carousel-caption">
+          <h4>Students Screen</h4>
+          <p>Enter Students who have a sponsor</p>
+        </div>
+    </div>
+    <div class="item">
+        <img src="/images/bbef_screenshot_02.png" />
+        <div class="carousel-caption">
+          <h4>Sponsors Screen</h4>
+          <p>Enter A sponsor</p>
+        </div>
+    </div>
+  </div>
+  <!-- Carousel nav -->
+  <a class="carousel-control left" href="#bbef-carousel" data-slide="prev">&lsaquo;</a>
+  <a class="carousel-control right" href="#bbef-carousel" data-slide="next">&rsaquo;</a>
+</div>
 ### Description:
 The Bagong Barrio Education Fund(BBEF) is a not-for-profit sponsorship program that focuses on education as a means of breaking the cycle of poverty.
 
@@ -50,6 +96,13 @@ The program supports the educational needs of the children of Bagong Barrio, the
 sponsors who fund the education expenses (books, uniforms, transport) of individual students.
 
 100% of the sponsors’ money goes directly to the students.
+
+#### Resources
+- [GitHub Repository](https://github.com/mndeguzman/BBEF)
+- [Website](http://bbef2.herokuapp.com/)
+<p style="clear:both"></p>
+
+
 
 
 
