@@ -7,6 +7,7 @@ Read more: Show me more
 Here are the problems with local problem owners at the Sydney RHoK weekend December 7th and 8th:
 
 - [Bagong Barrio Education Fund](#bbef)
+- [Andie](#andie)
 
 ------
 ## <a id="bbef"></a> Bagong Barrio Education Fund
@@ -39,7 +40,7 @@ Here are the problems with local problem owners at the Sydney RHoK weekend Decem
   <a class="carousel-control right" href="#bbef-carousel" data-slide="next">&rsaquo;</a>
 </div>
 ### Description
-The Bagong Barrio Education Fund (BBEF) aims to break the cycle of poverty for children living in the Philippines through educational sponsorship. The program is run by a voluntary leadership team of 4 here in Australia and a small team of 5 in the Philippines. We are a unique program as 100% of a sponsor’s annual donation goes directly to their student, none of which is eaten up by fees or other administrative costs like other organisations. The BBEF project recently took part in the June Rhok event as well as a couple of ‘roll’ events where we managed to set up most of the framework for the project - so the ability to add/edit students and sponsors, basic authentication. The aim for the December Rhok event is to really tighten up what we currently have by putting in smarter searches, field validations and to pretty up the application. Here’s a link to the site as it currently stands: http://bbef2.herokuapp.com/  
+The Bagong Barrio Education Fund (BBEF) aims to break the cycle of poverty for children living in the Philippines through educational sponsorship. The program is run by a voluntary leadership team of 4 here in Australia and a small team of 5 in the Philippines. We are a unique program as 100% of a sponsor’s annual donation goes directly to their student, none of which is eaten up by fees or other administrative costs like other organisations. The BBEF project recently took part in the June Rhok event as well as a couple of ‘roll’ events where we managed to set up most of the framework for the project - so the ability to add/edit students and sponsors, basic authentication. The aim for the December Rhok event is to really tighten up what we currently have by putting in smarter searches, field validations and to pretty up the application. Here’s a link to the site as it currently stands: [http://bbef2.herokuapp.com/](http://bbef2.herokuapp.com/)
 
 ### Background
 The BBEF team currently manage its students and sponsors using basic methods such as spreadsheets and postal mail which is not ideal for the following reasons:
@@ -59,6 +60,37 @@ Front end developer, back end Ruby on Rails developer, UX designer/design experi
 #### Resources
 - [GitHub Repository](https://github.com/mndeguzman/BBEF)
 - [Website](http://bbef2.herokuapp.com/)
+
+<p style="clear:both"></p>
+------
+## <a id="andie"></a> 
+<div></div>
+#### Andie
+
+### What are you trying to solve
+The scarcity of physical resources and moving spaces in metropolitan cities is quickly becoming a critical issue to solve in 21st century urban planning and governance. Policy makers and private enterprises often take a hollistic approach to ensure that the utilisation of available spaces would generate maximum economic outputs, otherwise spaces are often left vacant and underutilised until suitable tenancy arrives. Despite those strategic efforts, many claim that it is simply the lack of understanding between supply side and demand sides that are causing underutilised spaces to take place in this critical economy. Our social experiment aims to take on the role of the facilitator, using technology as a tool, to facilitate conversations between landlords and its potential tenants to help both parties understand their offerings and needs, and eventually, reducing incidences of vacant/abandoned/underutilised spaces within the city.
+
+### What solutions are out there at the moment trying to solve the same problem
+-Renew Newcastle (and other nitiatives inspired by Renew Newcastle, including Renew Australia) : find artists, cultural projects and community groups to use and maintain vacant and disused buildings until they become commercially viable or are redeveloped. [http://renewnewcastle.org/about](http://renewnewcastle.org/about)
+ 
+-*Pop up retail* : "Pop up stores are very successful in today’s uncertain economy where the national retail vacancy rate is at a three-year high and consumer attention rate at a even more tenuous state. Pop up shops are successful because they offer a cheaper solution than year-round rentals. It is a great way for stores and entrepreneurs to check the pulse of consumers and try out new products." [http://www.popupleases.com.au/](http://www.popupleases.com.au/)
+
+-*Shared space* : "Sharedspace is an easy to use website that allows people to find and share great spaces to work & play". Provides a comprehensive listing of office spaces, storage, studios, kitchen space, boats, etc. [http://www.sharedspace.co.nz/](http://www.sharedspace.co.nz/)
+
+### What do you hope to achieve in the weekend
+- Set up basic skeleton of the platform (A column for owners/landlords could share their offerings, another column for tenants to voice their needs)
+- Aim to get some people (most likely victims of the event) on board to experiment the platform
+
+### What sort of skills do you think you may need (we can help you with this)
+- Software engineer/ developers, anyone who is keen to build and experiment, doesn't mind working with people.
+- Front end developers, anyone keen to work on user interaction and user experience, likes listening to people
+- Property gurus/ marketing/ urban planning enthusiasts, anyone who is interested in sustaibable cities, has a thing for technology, and doesn't mind making new some new friends.
+- Research - A bit of a research junkie who likes reading stuff off the internet to help research on potential target audiences/clients, likes talking to poeple, has a thing for technology and sustainable cities.
+
+#### Resources
+- [Renew Newcastle](http://renewnewcastle.org/about)
+- [Pop up retail](http://www.popupleases.com.au/)
+- [Shared space](http://www.sharedspace.co.nz/)
 
 <p style="clear:both"></p>
 
