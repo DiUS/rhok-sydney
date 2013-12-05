@@ -8,6 +8,7 @@ Here are the problems with local problem owners at the Sydney RHoK weekend Decem
 
 - [Bagong Barrio Education Fund](#bbef)
 - [Andie](#andie)
+- [HROK Open Data Exporter](#open_data_export)
 
 ------
 ## <a id="bbef"></a> Bagong Barrio Education Fund
@@ -63,8 +64,9 @@ Front end developer, back end Ruby on Rails developer, UX designer/design experi
 
 <p style="clear:both"></p>
 ------
-## <a id="andie"></a> 
-<div></div>
+
+
+## <div style="color: white; background-color: steelblue; width: 80%; height: 5em; text-align: center; line-height: 5em;"> ??? <a id="andie"></a> </div> 
 #### Andie
 
 ### What are you trying to solve
@@ -94,11 +96,46 @@ The scarcity of physical resources and moving spaces in metropolitan cities is q
 
 <p style="clear:both"></p>
 
+## <a id="open_data_export"></a> HROK Open Data Exporter - Overview
+#### Ian Scrivener
+![alt text](/images/open_data.png "Open Data Shot")
+
+### Open Data
+
+Open data is the idea that certain data should be freely available to everyone to use and republish as they wish, without restrictions from copyright, patents or other mechanisms of control*
+
+The goals of the open data movement are similar to those of other "Open" movements such as open source, open hardware, open content, and open access.
+
+... the term "open data" itself is recent, gaining popularity with the rise of the Internet and World Wide Web and, especially with the launch of open-data government initiatives such as Data.gov and Data.gov.uk.
+
+[http://en.wikipedia.org/wiki/Open_data](http://en.wikipedia.org/wiki/Open_data)
 
 
+### Project Overview
+A tool to export data from a variety of data sources to common Open Data repositories, such as CKAN, GitHub or a website. Included would be a metadata sidecar/descriptor (datapackage.json) in the Open Knowledge Foundation's (OKFN) Simple Data Format (SDF). 'Open Data Exporter' would be available as a secure online app (nodejitsu?) and opensourced via GitHub.
 
 
+### Technologies used
+- node.js (perhaps using sails.js... a cool & modern node framework that offer rapid development access to a wide variety of data sources/databases via its inbuilt ORM
+- clean/basic Bootstrap UI
+- cloud hosted (nodejitsu?)
+- authentication via OAuth
+- optional import/export security via SSH
+- test/demonstrate using mekongGOOD's Mekong region NGO directory database (mongoDB on MongoHQ)
+- deployed to cloud (nodejitsu?) for demonstration/deployment
 
+### Running the project
+- GitHub for documentation & open source code
+- Trello for agile task management
+- local node.js setup for developers
+- mongoDB test databse locally or at MongoHQ
+
+### RHOKers Required
+
+1-3 backend developers, node.js experience preferred
+
+#### Resources
+- [http://en.wikipedia.org/wiki/Open_data](http://en.wikipedia.org/wiki/Open_data)
 
 
 
