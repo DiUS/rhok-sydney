@@ -1,0 +1,10 @@
+.project-header {
+  color: white;
+  background-color: steelblue;
+  width: 80%;
+  height: 5em;
+  text-align: center;
+  line-height: 5em; 
+  border-radius: 5px;
+  text-shadow: 1px 1px #333;
+}
