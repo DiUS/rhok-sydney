@@ -11,7 +11,7 @@
     %link{:rel => "shortcut icon", :href => "images/rhok.ico", :type => "image/vnd.microsoft.icon"}
     %link{:href => '/bootstrap/bootstrap.css', :media => 'screen', :rel => 'stylesheet'}
     %link{:href => '/main.css', :media => 'screen', :rel => 'stylesheet'}
-    :css 
+    :css
       body {
         padding-bottom: 40px;
       }
@@ -19,7 +19,7 @@
       .container-narrow {
         margin: 0 auto;
         max-width: 960px;
-        
+
       }
       .container-narrow > hr {
         margin: 25px 0;
@@ -52,15 +52,13 @@
         %li
           %a{:href => "/resources"} Resources
         %li
-          %a{:href => "/problems"} Current projects
+          %a{:href => "http://www.meetup.com/rhok-sydney/about/"} Current projects
         %li
           %a{:href => "/volunteer"} Get involved
         %li
           %a{:href => "/contact-us"} Contact us
         %li
-          %a{:href => "http://www.meetup.com/rhok-sydney/events/147472062/", :target => "_blank", :class => "btn btn-primary"} Meetup
-        %li
-          %a{:href => "https://www.eventbrite.com.au/e/rhok-global-dec-2013-sydney-australia-tickets-9022156513", :target => "_blank", :class => "btn btn-warning"} Eventbrite
+          %a{:href => "http://www.meetup.com/rhok-sydney", :target => "_blank", :class => "btn btn-primary"} Meetup
 
       %h3.muted= Nesta::Config.title
 

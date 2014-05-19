@@ -67,7 +67,7 @@ Front end developer, back end Ruby on Rails developer, UX designer/design experi
 ------
 
 
-## <div class="project-header"> Project X <a id="andie"></a> </div> 
+## <div class="project-header"> Project X <a id="andie"></a> </div>
 #### Andie
 
 ### What are you trying to solve
@@ -75,7 +75,7 @@ The scarcity of physical resources and moving spaces in metropolitan cities is q
 
 ### What solutions are out there at the moment trying to solve the same problem
 -Renew Newcastle (and other nitiatives inspired by Renew Newcastle, including Renew Australia) : find artists, cultural projects and community groups to use and maintain vacant and disused buildings until they become commercially viable or are redeveloped. [http://renewnewcastle.org/about](http://renewnewcastle.org/about)
- 
+
 -*Pop up retail* : "Pop up stores are very successful in today’s uncertain economy where the national retail vacancy rate is at a three-year high and consumer attention rate at a even more tenuous state. Pop up shops are successful because they offer a cheaper solution than year-round rentals. It is a great way for stores and entrepreneurs to check the pulse of consumers and try out new products." [http://www.popupleases.com.au/](http://www.popupleases.com.au/)
 
 -*Shared space* : "Sharedspace is an easy to use website that allows people to find and share great spaces to work & play". Provides a comprehensive listing of office spaces, storage, studios, kitchen space, boats, etc. [http://www.sharedspace.co.nz/](http://www.sharedspace.co.nz/)
@@ -98,7 +98,7 @@ The scarcity of physical resources and moving spaces in metropolitan cities is q
 <p style="clear:both"></p>
 ------
 
-## <a id="open_data_export"></a> 
+## <a id="open_data_export"></a>
 ## <div class="project-header"> HROK Open Data Exporter - Overview <a id="open_data_exporter"></a> </div>
 #### Ian Scrivener
 
