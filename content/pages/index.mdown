@@ -1,27 +1,17 @@
 Title: RHoK Sydney
 Link text: Home
 
-
-
 # Welcome to RHoK Sydney
 
-Random Hacks of Kindness Sydney (RHoK) is a not for profit local group that is part of a global movement of hackers who are hacking for good around the world.  We invite participants to work together to produce practical open source solutions to development problems related to disaster risk, major crisis (like bushfires, floods and earthquakes), and the challenges of climate change.  
+Random Hacks of Kindness Sydney (RHoK) is a not for profit local group that is part of a global movement of hackers who are hacking for good around the world. We invite participants to work together to produce practical open source solutions to development problems related to disaster risk, major crisis (like bushfires, floods and earthquakes), and the challenges of climate change.
 
 # What is RHoK?
 
-RHoK is a global hackathon that takes part twice a year.  It was started in 2009 by Google, NASA, Yahoo!, Microsoft and the World Bank, and since then RHoK has been bringing together thousands of people around the world to create open source solutions that can save lives and alleviate suffering.
-RHoK Sydney events encourage participants to develop solutions that can be used, in particular, to help people prepare for and respond to natural disasters.
+RHoK is a global hackathon that takes part twice a year. It was started in 2009 by Google, NASA, Yahoo!, Microsoft and the World Bank, and since then RHoK has been bringing together thousands of people around the world to create open source solutions that can save lives and alleviate suffering. RHoK Sydney events encourage participants to develop solutions that can be used, in particular, to help people prepare for and respond to natural disasters. Sydney is again taking part in the next global RHoK event at the end of November this year.
 
-See this slide pack for more details:
-
-- [RHoK Information Night](/attachments/RHoKDecemberSlides.pdf)
-
-# RHoK Global Hackathon - May 31st and June 1st
-
-June 2014 Problem Owners Confirmed:
-
-- [Blue Mountains Disaster Response](http://www.meetup.com/rhok-sydney/pages/Blue_Mountains_Disaster_Response/)
-- [Indigenous Literacy Foundation](http://www.meetup.com/rhok-sydney/pages/Indigenous_Literacy_Foundation/)
+### See more at: 
+- [Meetup](http://www.meetup.com/rhok-sydney)
+- [November 2014 Projects](http://www.meetup.com/rhok-sydney/pages/November_2014_Projects/)
 
 ---------
 
@@ -32,6 +22,8 @@ It brings hackers together with experts in things like bushfire response, climat
 On the 31 May and 1 June, groups from around the world will be joining in to Hack for Humanity. If you're in Sydney - it would be great to see you at the RHoK Sydney event.
 The RHoK weekend is approaching.
 
-[Fishburners](http://fishburners.org/) has graciously provided a venue:
+[Commonwealth Bank](https://www.google.com/maps/place/1+Harbour+St,+Sydney+NSW+2000) has graciously provided a venue:
 ### Location:
-Level 2, 608 Harris St, Ultimo, Sydney
+Commonwealth Bank Place North
+
+1 Harbour St, Sydney 2000
